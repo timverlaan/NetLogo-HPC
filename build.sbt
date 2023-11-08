@@ -13,7 +13,7 @@ resolvers += "NetLogo Repo" at "https://dl.cloudsmith.io/public/netlogo/netlogo/
 resolvers += Resolver.mavenCentral
 
 
-libraryDependencies += "org.nlogo" % "netlogo" % "6.2.2"
+libraryDependencies += "org.nlogo" % "netlogo" % "6.0.4"
 libraryDependencies += "org.sim0mq" % "sim0mq" % "2.1.0"
 
 
