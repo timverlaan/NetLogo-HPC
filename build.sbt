@@ -12,7 +12,7 @@ resolvers += "Artima Maven Repository" at "http://repo.artima.com/releases"
 resolvers += Resolver.mavenCentral
 
 
-libraryDependencies += "org.nlogo" % "netlogo" % "6.2.2"
+libraryDependencies += "org.nlogo" % "netlogo" % "6.0.4"
 libraryDependencies += "org.sim0mq" % "sim0mq" % "0.05.00"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test"
